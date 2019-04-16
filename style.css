@@ -1,0 +1,19 @@
+h1{
+  font-size: 42px;
+  text-decoration: underline;
+}
+
+#p1{
+  color: blue;
+}
+
+#p2{
+  color: green;
+}
+
+#addition{
+  background-color: red;
+  border-color: red;
+  font-weight: bold;
+  color: white;
+}
